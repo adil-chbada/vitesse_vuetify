@@ -1,7 +1,11 @@
 {
   "cSpell.words": [
     "Vitesse",
-    "vuetify"
+    "demi",
+    "materialdesignicons",
+    "pinia",
+    "vuetify",
+    "windi"
   ],
   "i18n-ally.keystyle": "nested",
   "i18n-ally.localesPaths": "locales",

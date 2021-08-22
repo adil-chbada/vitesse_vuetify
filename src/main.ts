@@ -14,7 +14,7 @@ import './styles/main.css'
 import 'virtual:windi-utilities.css'
 // windicss devtools support (dev only)
 import 'virtual:windi-devtools'
-import vuetify from './modules/vuetify.js'
+import vuetify from './modules/vuetify'
 
 const routes = setupLayouts(generatedRoutes)
 
